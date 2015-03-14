@@ -1,0 +1,14 @@
+Content\Entity\player\still.xnb
+Content\Entity\player\running-left.xnb
+Content\Entity\player\running-right.xnb
+Content\Entity\player\running-down.xnb
+Content\Entity\player\running-up.xnb
+Content\Tileset\Tileset.xnb
+Content\Entity\Bueno, the bear\still.xnb
+Content\Entity\Bueno, the bear\running-down.xnb
+Content\Entity\Bueno, the bear\running-right.xnb
+Content\Entity\Bueno, the bear\running-left.xnb
+Content\Entity\Bueno, the bear\running-up.xnb
+Content\Tilemap\Grassy.txt
+Files\TileMaps\GrassAndFence.txt
+Files\TileMaps\Grassy.txt

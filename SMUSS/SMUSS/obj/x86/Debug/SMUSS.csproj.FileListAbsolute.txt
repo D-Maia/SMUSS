@@ -1,0 +1,19 @@
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\obj\x86\Debug\SMUSS.csprojResolveAssemblyReference.cache
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\SMUSS.exe
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\SMUSS.pdb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\obj\x86\Debug\SMUSS.exe
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\obj\x86\Debug\SMUSS.pdb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\still.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-left.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-right.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-down.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-up.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Tileset\Tileset.xnb
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Tilemap\Grassy.txt
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Files\TileMaps\GrassAndFence.txt
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Files\TileMaps\Grassy.txt
+C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\Bueno, the bear\still.xnb

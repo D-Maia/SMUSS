@@ -1,0 +1,8 @@
+Content\Entity\player\still.xnb
+Content\Entity\player\running-left.xnb
+Content\Entity\player\running-right.xnb
+Content\Entity\player\running-down.xnb
+Content\Entity\player\running-up.xnb
+Content\Tileset\Tileset.xnb
+Content\Entity\Bueno, the bear\still.xnb
+Content\Tilemap\Grassy.txt

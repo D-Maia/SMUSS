@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Entity\player\still.png</Source>
+      <Name>Entity\player\still</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\still.xnb</Output>
+      <Time>2015-01-09T23:40:46.199+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\player\running-left.png</Source>
+      <Name>Entity\player\running-left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-left.xnb</Output>
+      <Time>2015-01-11T17:51:12.985+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\player\running-right.png</Source>
+      <Name>Entity\player\running-right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-right.xnb</Output>
+      <Time>2015-01-11T19:17:44.101+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\player\running-down.png</Source>
+      <Name>Entity\player\running-down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-down.xnb</Output>
+      <Time>2015-01-11T19:54:18.357+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\player\running-up.png</Source>
+      <Name>Entity\player\running-up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\player\running-up.xnb</Output>
+      <Time>2015-01-11T19:54:18.36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Tileset\Tileset.png</Source>
+      <Name>Tileset\Tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Tileset\Tileset.xnb</Output>
+      <Time>2015-01-18T11:18:11.6421119+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Bueno, the bear\still.png</Source>
+      <Name>Entity\Bueno, the bear\still</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\Entity\Bueno, the bear\still.xnb</Output>
+      <Time>2015-03-15T00:00:59.6039289+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSSContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSSContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tico\Documents\Visual Studio 2010\Projects\SMUSS\SMUSS\SMUSS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-08T20:17:01.8744+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
